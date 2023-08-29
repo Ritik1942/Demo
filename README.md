@@ -2,6 +2,3 @@
 this is demo file
 <br>
 Author-Ritik Gupta(Hello)
-<br>
-
-
